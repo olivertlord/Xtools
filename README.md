@@ -1,6 +1,8 @@
 # Xtools
 ### v1.0
 
+[![DOI](https://zenodo.org/badge/83300016.svg)](https://zenodo.org/badge/latestdoi/83300016)
+
 Xtools is a suite of programmes I am developing that are designed to be of use at the synchrotron during X-ray diffraction experiments performed at high pressure and high temperature conditions. Currently two tools are available:
 
 1. A PV converter. This converts pressure to volume and vice versa for a variety of important high-pressure mineral phases.
