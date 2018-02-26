@@ -25,15 +25,9 @@ Xtools requires nothing more that a web browser to run using the MyBinder servic
 Cell | Run All
 ```
 
-Alternatively to install Xtools directly on your local machine, navigate to https://github.com/olivertlord/Xtools and download the .ZIP file and extract it into your chosen directory. Alternatively, if you have git installed, then at the command line type:
+Alternatively, to install Xtools on your local machine, navigate to https://github.com/olivertlord/Xtools/releases/latest and download the latest source code (as either a .ZIP or .tar.gz file) and extract to your desired location.
 
-```
-cd targetdirectory
-git clone https://github.com/olivertlord/Xtools.git
-```
-This will craete a clone of the GitHub repository called ```Xtools``` inside ```targetdirectory```
-
-To run Xtools, simply type the following at the terminal:
+To run Xtools, simply type the following at the terminal from wihtin the Xtools directory:
 
 ```
 jupyter notebook Xtools.ipynb
