@@ -1,5 +1,4 @@
 # Xtools
-### v1.0
 
 [![DOI](https://zenodo.org/badge/83300016.svg)](https://zenodo.org/badge/latestdoi/83300016)
 
