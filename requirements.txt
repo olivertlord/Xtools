@@ -2,4 +2,4 @@ numpy
 scipy
 matplotlib
 ipython==5.1.0
-ipywidgets
+ipywidgets==5.2.2
