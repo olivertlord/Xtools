@@ -2,5 +2,5 @@ numpy
 scipy
 matplotlib
 ipython==5.1.0
-ipywidgets==5.2.2
+ipywidgets
 jupyter_contrib_nbextensions
