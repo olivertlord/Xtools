@@ -3,4 +3,3 @@ scipy
 matplotlib
 ipython==5.1.0
 ipywidgets
-jupyter_contrib_nbextensions
